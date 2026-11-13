@@ -1,1 +1,40 @@
+name: Update highlights
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-highlights
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Fetch ScoreBat highlights
+        env:
+          SCOREBAT_TOKEN: ${{ secrets.SCOREBAT_TOKEN }}
+        run: node scripts/fetch.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "grabit-feed"
+          git config user.email "actions@users.noreply.github.com"
+          git add highlights.json
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "Update highlights $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
