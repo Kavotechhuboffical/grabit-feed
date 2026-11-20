@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:06:22.658Z",
+ "updated": "2026-11-20T14:42:47.407Z",
  "count": 150,
  "items": [
   {
@@ -13,6 +13,20 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/eTVrU2RHbDFkazdDdzE1cDF1cWJKMkJFRHBPWkRMSkxFZHVLRG5tTlJZbz0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991426/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Bonaire - Cuba",
+   "competition": "NORTH AND CENTRAL AMERICA: Nations League, League B",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991426.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991426/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T20:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/eTVrU2RHbDFkazdDdzE1cDF1cWJKMkJFRHBPWkRMSkxFZHVLRG5tTlJZbz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -55,6 +69,48 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UHVmZEx3dWRJN1oyL1VHeXZETjlRcWRnYTRFK2dhUzFxdldGek9YSDIyWT0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991413/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Italy - France",
+   "competition": "EUROPE: UEFA Nations League A, Group Stage",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991413.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991413/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:45:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/MUF4cG85ZWlnM2lkaW9GWXpWZHdyU0R1YUttdzNHeTFFNUNPNDkyUkdUWT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991412/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "England - Croatia",
+   "competition": "EUROPE: UEFA Nations League A, Group Stage",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991412.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991412/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:45:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/QlI0eE9nYzcwUXZsbncvUVp6MjNLa0xtMXRCMEVYNUtDWEZMNG5aK3RxTT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991415/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Albania - Finland",
+   "competition": "EUROPE: UEFA Nations League C, Group Stage",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991415.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991415/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:45:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UHVmZEx3dWRJN1oyL1VHeXZETjlRcWRnYTRFK2dhUzFxdldGek9YSDIyWT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -129,6 +185,76 @@
    ]
   },
   {
+   "id": "https://www.scorebat.com/embed/matchview/1990812/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Senegal - Sudan",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1990812.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1990812/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UVFYSHF6TFVtSEpPR3BLRGtqRWpNWkY3am9ISGlMRk44YnRyeGFpckVoaz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991425/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Cayman Islands - Guyana",
+   "competition": "NORTH AND CENTRAL AMERICA: Nations League, League B",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991425.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991425/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/VWxPMmtWeEhKcGQxNmpzZkRhVU9PU0NiUkxHeXlKWmVtMmEvMCtZM2dHMD0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991424/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Barbados - Guadalope",
+   "competition": "NORTH AND CENTRAL AMERICA: Nations League, League B",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991424.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991424/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/a1ArQ0lETzdnMFJFOXdUQWt1UUliU21KWnNNenozd3dDZmwvakFPWVFEWT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991421/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Cote d’Ivoire - Gambia",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991421.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991421/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZitYbkRQNCtQaEd4UEJtZjM4STdhclU2d1dBMWFwaitJcFFaUnlrUklNUT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1990804/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Cameroon - Namibia",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1990804.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1990804/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ekVoNm1LYXhmVVFYZnlvRzlSRHhkMmp3SnBlb2pWdE9SVzdORmM2K0l6bz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
    "id": "https://www.scorebat.com/embed/matchview/1988822/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==",
    "title": "Navalcarnero - Real Betis",
    "competition": "SPAIN: National Cup",
@@ -139,6 +265,20 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/cFhXREpPMHhDRmZiYUxGdDFQaDlFemFsaHlXL2c4aXp3VUg3a2dXU3hrYz0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1988822/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Navalcarnero - Real Betis",
+   "competition": "SPAIN: National Cup",
+   "thumbnail": "https://www.scorebat.com/og/m/og1988822.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1988822/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T18:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/cFhXREpPMHhDRmZiYUxGdDFQaDlFemFsaHlXL2c4aXp3VUg3a2dXU3hrYz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -185,6 +325,48 @@
    ]
   },
   {
+   "id": "https://www.scorebat.com/embed/matchview/1991410/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Turkey - Belgium",
+   "competition": "EUROPE: UEFA Nations League A, Group Stage",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991410.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991410/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T17:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/NW81ZzdPT1pRajRyclJZd2x0T2Z3Q0hTbHZ2K25uSEhQY2lLamQvNnZvST0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991414/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Armenia - Cyprus",
+   "competition": "EUROPE: UEFA Nations League C, Group Stage",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991414.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991414/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T17:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/cW9DSUVnSTZ4V2RUTm1qbHZSN1Bzak83MlNHbmdwTW9qL0d5VnUxQ05LVT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991420/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Guinea - Eritrea",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991420.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991420/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T17:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/RXJlVDdwQWVHQnBxWVQ0UWJwWUh2SldPcG1LZVpCTnJFZDU0MEpBcHVBbz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
    "id": "https://www.scorebat.com/embed/matchview/1990809/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==",
    "title": "Madagascar - Guinea Bissau",
    "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
@@ -227,6 +409,48 @@
    ]
   },
   {
+   "id": "https://www.scorebat.com/embed/matchview/1990809/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Madagascar - Guinea Bissau",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1990809.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1990809/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T16:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c0NyN0lXbDFJZ3NOVU1oS01IQTNndlRHeGlRcEhBeG5lZ2w2bE9RU3NXND0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1990807/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "DR Congo - Sierra Leone",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1990807.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1990807/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T16:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/V3dpbTROckllWlR5c1lBdUJ4Z1dkbHhCTkx4NHBhR3U0NDhMcytMYXlrWT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1992030/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "France U-20 - Denmark U-20",
+   "competition": "WORLD: International Friendlies",
+   "thumbnail": "https://www.scorebat.com/og/m/og1992030.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1992030/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T16:00:00+00:00",
+   "videos": [
+    {
+     "title": "Live Stream",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/Q2w1Uk04VjlRdDU4VFV6UWN6RkJEUyt2eGxGbWxtQUEzT3MvbDlDUGV2OD0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
    "id": "https://www.scorebat.com/embed/matchview/1992029/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==",
    "title": "Uzbekistan - Russia",
    "competition": "WORLD: International Friendlies",
@@ -259,6 +483,38 @@
    ]
   },
   {
+   "id": "https://www.scorebat.com/embed/matchview/1992029/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Uzbekistan - Russia",
+   "competition": "WORLD: International Friendlies",
+   "thumbnail": "https://www.scorebat.com/og/m/og1992029.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1992029/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T15:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/Zlk2YURyZlFXRXJkem9qaXBKV3o1RkZhQlVidnlucU4rd2dUaWpWcXFObz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    },
+    {
+     "title": "Live Stream",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/bjFhbUhOQzFWTzJ4UHlmUElVZ3lsTjl1KzFtakxucG16L0phOHU3VWxuZz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1991418/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Ghana - Somalia",
+   "competition": "AFRICA: Africa Cup of Nations, Preliminary Round",
+   "thumbnail": "https://www.scorebat.com/og/m/og1991418.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1991418/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T15:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/YUozSjNyNElEMGhhZ204QVJnTzdvQWo3UUZvMjAyRkd0cmhJVWZsUU1JVT0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
    "id": "https://www.scorebat.com/embed/matchview/1992353/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==",
    "title": "Kazakhstan U-21 - Belarus U-21",
    "competition": "WORLD: International Friendlies",
@@ -269,6 +525,20 @@
     {
      "title": "Live Stream",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UEhLZGFwT2cyNnR2TnJsMG51V0xIZWgvYXhpZ3h3UWRSbzZPWDJ4SUhydz0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1992353/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Kazakhstan U-21 - Belarus U-21",
+   "competition": "WORLD: International Friendlies",
+   "thumbnail": "https://www.scorebat.com/og/m/og1992353.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1992353/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-12T09:00:00+00:00",
+   "videos": [
+    {
+     "title": "Live Stream",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UEhLZGFwT2cyNnR2TnJsMG51V0xIZWgvYXhpZ3h3UWRSbzZPWDJ4SUhydz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -353,6 +623,20 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UndYLzE3bExCU2VJcVQ5NllnMkhSUnp6cXZGTWNuamFJbzJHUDdGYm9jbz0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1988824/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Tavernes - Valencia",
+   "competition": "SPAIN: National Cup",
+   "thumbnail": "https://www.scorebat.com/og/m/og1988824.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1988824/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-10T20:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UndYLzE3bExCU2VJcVQ5NllnMkhSUnp6cXZGTWNuamFJbzJHUDdGYm9jbz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -605,6 +889,48 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UmRrOEMyanNHczdyQVFzaDdaUDQ0bk5UcHYzUnRlTklNOWtmdjJqamF1OD0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1988814/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Mijas Las Lagunas - Real Jaen",
+   "competition": "SPAIN: National Cup",
+   "thumbnail": "https://www.scorebat.com/og/m/og1988814.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1988814/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-10T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/MExkZ1lCd0loTnpZTFpHNjhyZlNXTmlkWWx1RGNRTFV4RU92bytESENKMD0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1988811/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Amorebieta - UD Logrones",
+   "competition": "SPAIN: National Cup",
+   "thumbnail": "https://www.scorebat.com/og/m/og1988811.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1988811/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-10T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/NDhtTFNNbk91MCs5TzVqbGpPNzBzcHYvYXRrM3liOGJnS05PNzBGMFdWND0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
+   "id": "https://www.scorebat.com/embed/matchview/1988817/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Trival Valderas - Leganes",
+   "competition": "SPAIN: National Cup",
+   "thumbnail": "https://www.scorebat.com/og/m/og1988817.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1988817/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-10T19:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/UmRrOEMyanNHczdyQVFzaDdaUDQ0bk5UcHYzUnRlTklNOWtmdjJqamF1OD0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   },
@@ -1761,6 +2087,24 @@
    ]
   },
   {
+   "id": "https://www.scorebat.com/embed/matchview/1911863/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "title": "Atletico Madrid - Barcelona",
+   "competition": "SPAIN: La Liga",
+   "thumbnail": "https://www.scorebat.com/og/m/og1911863.jpeg",
+   "url": "https://www.scorebat.com/embed/matchview/1911863/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==",
+   "date": "2026-11-08T20:00:00+00:00",
+   "videos": [
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/NjJ3Qm5XK2JHMk45OGRVdGxQaW4wMUU2N3lMdjIrWGwwTTU0dHd1M3FaZz0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    },
+    {
+     "title": "Highlights",
+     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dUw3SURFYnNrNjdvdWZWcGprcTNLODFxcmh5Si9QS1pUTDVGMkZPRStKMD0=/?token=MTQwNjczXzE3OTUxODU3NjdfZTQ0ZGFiMzg3ZmEzNGFjNWMxOGQxNmY2NWQ5MTE2ODMwZWIyYmM2OA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+    }
+   ]
+  },
+  {
    "id": "https://www.scorebat.com/embed/matchview/1901994/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
    "title": "Fiorentina - Juventus",
    "competition": "ITALY: Serie A",
@@ -2059,366 +2403,6 @@
     {
      "title": "Highlights",
      "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/REJTbG1mUGY5cHpMY2tlK3k2TFFIbFMvVVZsSFJLWVdrMW1sdVp0Z2F3cz0=/?token=MTQwNjczXzE3OTUxMzMxODJfNDFhYWQ3ZmEyZTU1OWYzMWY0ZDNiM2NmMThkNDlkYjBiNWM1NjI3MQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==",
-   "title": "Lech - Zaglebie L",
-   "competition": "POLAND: Ekstraklasa",
-   "thumbnail": "https://www.scorebat.com/og/m/og1894796.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1894796/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==",
-   "date": "2026-11-08T19:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/ZUNJT3RtODljaU5xSnZCYTJkS005Wko2bld0cWVGYWJyUmhPRjR3ZEsxbz0=/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTUwNDU1MDRfM2M3YWNkZDcyZTIzYTI0YmI5OGEzNzkzYmIxODBhOTRhYmU1ZDgzMA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTUwNjU3NzhfMDE0ZDQyZjRhZTFkY2EyYjlkNjk3NDJmYjVlMjM1YjUxOGQ5MjgyMQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==",
-   "title": "Hoffenheim - Schalke",
-   "competition": "GERMANY: Bundesliga",
-   "thumbnail": "https://www.scorebat.com/og/m/og1912263.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1912263/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==",
-   "date": "2026-11-08T18:30:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/c1p0SHNvQ1pxTkMwTjYweHcyaC9OOUE4WG1LYVBRM2ZsemEzajluV3I1ND0=/?token=MTQwNjczXzE3OTUxMDAzODlfZmI0YTc5YTA1OWIyODY4NzkxMjU3Mzk5ZDJiNzI1YmIwY2IwYjk5Zg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTQ4MDIxMTNfODQ5MjAyZmEzZTRlMzA3ZTY1NjM2ZGI5NzVkNmFmNGJkZDQyNzQwYg==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTQ4MzkyMzFfODUyODc3MWZkZDE4ZGViNzUxNGQzZDliZjk0NjI0N2IxNzBmZGQ5NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTQ4Nzg2MTJfODYyYzEzZWQzNTI1YmZiNjg1MGZiOWYxNDUwOGZmNTczNjBkZjAyOQ==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTQ5Mjg3NThfYTFiZThjMjY3NTE1ZGZmZThjOWFlNDQ0ZDc5NzYzNTE5YTcwZjc0NA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTQ5NjExNzJfOGEzM2QxMGIwMTdjYWE1NTFkNjk3NjVmNGFjNjI5MmE5ZGQ0M2Y4ZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    }
-   ]
-  },
-  {
-   "id": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "title": "Sint-Truiden - Zulte-Waregem",
-   "competition": "BELGIUM: First Division A",
-   "thumbnail": "https://www.scorebat.com/og/m/og1898748.jpeg",
-   "url": "https://www.scorebat.com/embed/matchview/1898748/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==",
-   "date": "2026-11-08T18:15:00+00:00",
-   "videos": [
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/dTIyUkNjd2xsQVBVY2xDUlF5WFFCTERpWnlSYUxITFNsdWhWTTJrTGc5VT0=/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
-    },
-    {
-     "title": "Highlights",
-     "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aEpIZjRRdUpxalkzUkxKd1pob1dZRzcrUHRkUHRLdXVKTGJFdDFackxscz0=/?token=MTQwNjczXzE3OTUwMTM2NDBfZmIzMmFhMGZhZmQ4N2QxYjFhZjVmYmEwOGYwODNjNzU3ODE3MTkwZA==&utm_source=api&utm_medium=video&utm_campaign=free-feed' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
     }
    ]
   }
